@@ -5,3 +5,4 @@ Plataforma focada para vendas de produtos digitais como e-books, cursos, mentori
 
 **MEMBROS:**
 Daniel Emanuel Pereira da Silva RA: a2388839
+Luiz Felipe Corumba Silva
